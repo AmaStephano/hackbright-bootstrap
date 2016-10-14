@@ -1,0 +1,23 @@
+#text-row {
+text-align: center;
+
+}
+
+h1 {
+    font-size: 16px
+}
+
+#color{
+
+    background-color: green;
+}
+
+.navbar-default .navbar-nav>li>a {
+
+    color:white;
+}
+
+.navbar-default .navbar-brand {
+
+    color:white;
+}
